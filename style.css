@@ -1,0 +1,78 @@
+.border {
+    border: 3px solid rgb(213, 241, 249);
+    border-radius: 16px 16px;
+    padding: 12px 0px 12px 80px;
+
+    margin: 16px 350PX 0PX 350PX;
+
+    float: inline-start;
+
+}
+
+.state {
+    border: 3PX SOLID rgb(196, 207, 210);
+    border-radius: 0px 6px;
+    PADDING: 4PX;
+    margin-left: 30px;
+}
+
+.sumbit {
+    border: 3PX SOLID rgb(196, 207, 210);
+    PADDING: 9PX;
+    MARGIN: 0PX 150PX 1PX 250PX;
+    border-radius: 0px 8px;
+
+}
+
+.place {
+    border: 3PX SOLID rgb(161, 191, 199);
+    border-radius: 0px 6px;
+    PADDING: 4PX;
+    margin-left: 110px;
+}
+
+.R {
+
+    margin: 8PX;
+    padding: 3PX;
+}
+
+body {
+    background-color: rgb(50, 48, 48);
+    color: rgb(255, 255, 255);
+    font: bold;
+    background-image: url(./image/pexels-photo-15.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-size: 17px;
+
+}
+
+
+
+.button {
+    border: 2PX SOLID rgb(161, 191, 199);
+    border-radius: 0px 6px;
+    PADDING: 4PX;
+    margin-left: 6px;
+}
+
+span {
+    text-align: center;
+    font-size: larger;
+}
+
+.form {
+    margin-left: 230px;
+}
+
+.radio {
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.rb {
+
+    padding: 6PX;
+    margin: 9px;
+}
